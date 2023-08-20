@@ -1,0 +1,1 @@
+This is a blockchain project utilizing PoS Ethereum to verify transactions of any modifications made to a patient's medical history and adding them to the ledger.
